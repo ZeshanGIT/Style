@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "614108068435",
+    "firebase_url": "https://style-xs-rebuild.firebaseio.com",
+    "project_id": "style-xs-rebuild",
+    "storage_bucket": "style-xs-rebuild.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614108068435:android:8d773fa93df4826d",
+        "android_client_info": {
+          "package_name": "com.example.style"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614108068435-vdkrqpf4i9b2puetrjh5mo73phnnv0nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8vFxDXWvCg3qI-MRCrQPJaaWvvyJCuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,6 +5,46 @@ INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManif
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:firebase_auth] /home/zeshan/Desktop/Style/style/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /home/zeshan/Desktop/Style/style/build/shared_preferences/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /home/zeshan/Desktop/Style/style/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /home/zeshan/Desktop/Style/style/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /home/zeshan/Desktop/Style/style/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_database] /home/zeshan/Desktop/Style/style/build/firebase_database/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/zeshan/Desktop/Style/style/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] /home/zeshan/Desktop/Style/style/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-database:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.3.aar/9c9d88f2129d46522178e14f97bd7e6c/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/6d087452ffc677b88e07adbe92030e92/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/1023346b82b0a66931bfcf4524d35bba/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/9a776d61ef3f17017809d1f2201842ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/013a90146f3b8aa7c75d1355724a8bf5/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/9ba98573d536825fc61d453e3cd33b35/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/671448ea23767d4cd32b48459312aa12/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/78ef2f4c40134a5cd4f89ddb057f53b2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7425a93dca2a3d4cd9ef8212a9f21112/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5bf8dbe146b87e30faff52f50c4b7ed5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/7127a971d86c45ad7622fcf9a79ce5ca/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/afdc4c786b43cffca676f694e8a7546f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ad60d924413054fc5558f77c11b7a5c0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c4a6e5ee3912db0176eb767ba22b152f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/daf264376882827d0991a3277def5bad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2caaa2ab6dcb3ea27991a61c34fc884/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ac242cc06e124721a7afdd5281c64ae2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d143008a47dad12685ab5caf9e73fde9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/164f7a7534861dc5441e750791e420c5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/608a08ff97e651e76cecee1d4871a183/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f66737a788022d1a3b4c424cb95fe6a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/40af46db51a8a4df43a3daffb87b93cd/AndroidManifest.xml:2:1-9:12
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -24,6 +64,54 @@ INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidMani
 		ADDED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/6d087452ffc677b88e07adbe92030e92/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/6d087452ffc677b88e07adbe92030e92/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/013a90146f3b8aa7c75d1355724a8bf5/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/013a90146f3b8aa7c75d1355724a8bf5/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/78ef2f4c40134a5cd4f89ddb057f53b2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/78ef2f4c40134a5cd4f89ddb057f53b2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7425a93dca2a3d4cd9ef8212a9f21112/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7425a93dca2a3d4cd9ef8212a9f21112/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5bf8dbe146b87e30faff52f50c4b7ed5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5bf8dbe146b87e30faff52f50c4b7ed5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/afdc4c786b43cffca676f694e8a7546f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/afdc4c786b43cffca676f694e8a7546f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ad60d924413054fc5558f77c11b7a5c0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ad60d924413054fc5558f77c11b7a5c0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c4a6e5ee3912db0176eb767ba22b152f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c4a6e5ee3912db0176eb767ba22b152f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2caaa2ab6dcb3ea27991a61c34fc884/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2caaa2ab6dcb3ea27991a61c34fc884/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ac242cc06e124721a7afdd5281c64ae2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ac242cc06e124721a7afdd5281c64ae2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d143008a47dad12685ab5caf9e73fde9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d143008a47dad12685ab5caf9e73fde9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/164f7a7534861dc5441e750791e420c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/164f7a7534861dc5441e750791e420c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/608a08ff97e651e76cecee1d4871a183/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/608a08ff97e651e76cecee1d4871a183/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/40af46db51a8a4df43a3daffb87b93cd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/40af46db51a8a4df43a3daffb87b93cd/AndroidManifest.xml:7:5-20
 	android:label
 		ADDED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml:11:9-30
 	android:icon
@@ -64,8 +152,90 @@ uses-sdk
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /home/zeshan/Desktop/Style/style/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/zeshan/Desktop/Style/style/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/zeshan/Desktop/Style/style/build/shared_preferences/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/zeshan/Desktop/Style/style/build/shared_preferences/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/zeshan/Desktop/Style/style/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/zeshan/Desktop/Style/style/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/zeshan/Desktop/Style/style/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/zeshan/Desktop/Style/style/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/zeshan/Desktop/Style/style/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/zeshan/Desktop/Style/style/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /home/zeshan/Desktop/Style/style/build/firebase_database/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /home/zeshan/Desktop/Style/style/build/firebase_database/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/zeshan/Desktop/Style/style/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/zeshan/Desktop/Style/style/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/zeshan/Desktop/Style/style/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/zeshan/Desktop/Style/style/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.3.aar/9c9d88f2129d46522178e14f97bd7e6c/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.3.aar/9c9d88f2129d46522178e14f97bd7e6c/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/6d087452ffc677b88e07adbe92030e92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/6d087452ffc677b88e07adbe92030e92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/1023346b82b0a66931bfcf4524d35bba/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/1023346b82b0a66931bfcf4524d35bba/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/9a776d61ef3f17017809d1f2201842ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/9a776d61ef3f17017809d1f2201842ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/013a90146f3b8aa7c75d1355724a8bf5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/013a90146f3b8aa7c75d1355724a8bf5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/9ba98573d536825fc61d453e3cd33b35/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/9ba98573d536825fc61d453e3cd33b35/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/671448ea23767d4cd32b48459312aa12/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/671448ea23767d4cd32b48459312aa12/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/78ef2f4c40134a5cd4f89ddb057f53b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/78ef2f4c40134a5cd4f89ddb057f53b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7425a93dca2a3d4cd9ef8212a9f21112/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7425a93dca2a3d4cd9ef8212a9f21112/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5bf8dbe146b87e30faff52f50c4b7ed5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5bf8dbe146b87e30faff52f50c4b7ed5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/7127a971d86c45ad7622fcf9a79ce5ca/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/7127a971d86c45ad7622fcf9a79ce5ca/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/afdc4c786b43cffca676f694e8a7546f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/afdc4c786b43cffca676f694e8a7546f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ad60d924413054fc5558f77c11b7a5c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ad60d924413054fc5558f77c11b7a5c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c4a6e5ee3912db0176eb767ba22b152f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c4a6e5ee3912db0176eb767ba22b152f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/daf264376882827d0991a3277def5bad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/daf264376882827d0991a3277def5bad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2caaa2ab6dcb3ea27991a61c34fc884/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2caaa2ab6dcb3ea27991a61c34fc884/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ac242cc06e124721a7afdd5281c64ae2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ac242cc06e124721a7afdd5281c64ae2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d143008a47dad12685ab5caf9e73fde9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d143008a47dad12685ab5caf9e73fde9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/164f7a7534861dc5441e750791e420c5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/164f7a7534861dc5441e750791e420c5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/608a08ff97e651e76cecee1d4871a183/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/608a08ff97e651e76cecee1d4871a183/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f66737a788022d1a3b4c424cb95fe6a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f66737a788022d1a3b4c424cb95fe6a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/40af46db51a8a4df43a3daffb87b93cd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/40af46db51a8a4df43a3daffb87b93cd/AndroidManifest.xml:5:5-44
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml
@@ -74,5 +244,227 @@ INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidMani
 		INJECTED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:google_sign_in] /home/zeshan/Desktop/Style/style/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /home/zeshan/Desktop/Style/style/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.3.aar/9c9d88f2129d46522178e14f97bd7e6c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.3.aar/9c9d88f2129d46522178e14f97bd7e6c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/1023346b82b0a66931bfcf4524d35bba/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/1023346b82b0a66931bfcf4524d35bba/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/zeshan/Desktop/Style/style/android/app/src/debug/AndroidManifest.xml:6:22-64
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/e8792556a9f79bbbb25ae60d94d5638b/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/6a507ba2938d788ec65c90ead02e6a05/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.3.aar/9c9d88f2129d46522178e14f97bd7e6c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/1023346b82b0a66931bfcf4524d35bba/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/1023346b82b0a66931bfcf4524d35bba/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.3.aar/9c9d88f2129d46522178e14f97bd7e6c/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/2397e4281ec9736af52cdd72696482fe/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/86b61b9238c6b734ed827982fd01d7bf/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/ad45b1cdbb3f860af8b512620d013128/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fca35b42b3c11b977a2aabbd6de6a4b0/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5751995a233255956918a9055e4c5821/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/zeshan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bc7e898c0f24a91c1dfc36536c3126c1/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/2588f51b9c90fe35cc91ba3f34dd04a5/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2caaa2ab6dcb3ea27991a61c34fc884/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2caaa2ab6dcb3ea27991a61c34fc884/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ac242cc06e124721a7afdd5281c64ae2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ac242cc06e124721a7afdd5281c64ae2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d143008a47dad12685ab5caf9e73fde9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d143008a47dad12685ab5caf9e73fde9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/164f7a7534861dc5441e750791e420c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/164f7a7534861dc5441e750791e420c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/608a08ff97e651e76cecee1d4871a183/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/608a08ff97e651e76cecee1d4871a183/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/zeshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/857c6b4b27d9b37ea5b76f2cc835455c/AndroidManifest.xml:27:13-51

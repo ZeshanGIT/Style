@@ -5,12 +5,13 @@ class CustomRadio extends StatefulWidget {
   final Function updateFunc;
   final String query;
   final String tag;
-
+  final Map map;
   CustomRadio({
     @required this.query,
     @required this.options,
     @required this.updateFunc,
     @required this.tag,
+    this.map = const {},
   });
 
   @override
@@ -25,7 +26,17 @@ class CustomRadioState extends State<CustomRadio> {
   @override
   void initState() {
     super.initState();
-    optionsList.addAll(widget.options.map((i) => RadioModel(false, i)));
+
+    optionsList.addAll(
+      widget.options.map(
+        (i) {
+          print(widget.map[widget.tag] != null
+              ? widget.map[widget.tag].toString()
+              : "Null" + "\t" + i);
+          return RadioModel(widget.map[widget.tag] == i, i);
+        },
+      ),
+    );
   }
 
   @override
@@ -90,18 +101,6 @@ class CustomRadioState extends State<CustomRadio> {
     return Column(
       mainAxisSize: MainAxisSize.min,
       children: options,
-    );
-  }
-}
-
-class RadioItem extends StatelessWidget {
-  final RadioModel _item;
-  RadioItem(this._item);
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      color: _item.isSelected ? Colors.black : Colors.transparent,
-      child: Text(_item.text),
     );
   }
 }

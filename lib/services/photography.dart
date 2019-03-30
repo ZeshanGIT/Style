@@ -3,10 +3,10 @@ import 'package:style/utilities/custom_radio.dart';
 
 class Photography extends StatefulWidget {
   @override
-  _PhotographyState createState() => _PhotographyState();
+  PhotographyState createState() => PhotographyState();
 }
 
-class _PhotographyState extends State<Photography>
+class PhotographyState extends State<Photography>
     with SingleTickerProviderStateMixin {
   PageController pageController;
   List<Color> bgColors = [
@@ -25,11 +25,12 @@ class _PhotographyState extends State<Photography>
     "package": "",
     "item": "",
     "tier": "",
-    "date": DateTime.now(),
+    "date": "",
   };
 
-  void updateSelected({String tag, String selectedItem}) {
+  void updateSelected(String tag, String selectedItem) {
     map[tag] = selectedItem;
+    print(map);
   }
 
   @override
@@ -44,6 +45,9 @@ class _PhotographyState extends State<Photography>
     double h = MediaQuery.of(context).size.height;
     double w = MediaQuery.of(context).size.width;
     double k = h < w ? h : w;
+
+    bool next = true;
+
     return Scaffold(
       backgroundColor: Colors.transparent,
       body: SafeArea(
@@ -82,7 +86,7 @@ class _PhotographyState extends State<Photography>
                 margin: EdgeInsets.only(top: k * 0.4),
                 child: PageView.builder(
                   controller: pageController,
-                  itemCount: 3,
+                  itemCount: 6,
                   physics: NeverScrollableScrollPhysics(),
                   itemBuilder: (bc, i) {
                     switch (i) {
@@ -93,7 +97,7 @@ class _PhotographyState extends State<Photography>
                               padding: EdgeInsets.symmetric(
                                   vertical: 0, horizontal: k * 0.2),
                               child: Hero(
-                                tag: "Photography",
+                                tag: "Photo",
                                 child: Image.asset("assets/Photography.png"),
                               ),
                             ),
@@ -107,6 +111,7 @@ class _PhotographyState extends State<Photography>
                           options: ["Personal", "Business"],
                           updateFunc: updateSelected,
                           tag: "type",
+                          map: map,
                         );
 
                       case 2:
@@ -115,6 +120,7 @@ class _PhotographyState extends State<Photography>
                           options: ["Photo", "Photo + Video"],
                           updateFunc: updateSelected,
                           tag: "package",
+                          map: map,
                         );
 
                       case 3:
@@ -129,12 +135,14 @@ class _PhotographyState extends State<Photography>
                                 query: "Choose your item",
                                 updateFunc: updateSelected,
                                 tag: "item",
+                                map: map,
                               )
                             : CustomRadio(
                                 options: ["Product", "Model", "Event"],
                                 query: "Choose your item",
                                 tag: "item",
                                 updateFunc: updateSelected,
+                                map: map,
                               );
                       case 4:
                         return map["package"] == "Photo"
@@ -143,19 +151,53 @@ class _PhotographyState extends State<Photography>
                                 query: "Choose your tier",
                                 updateFunc: updateSelected,
                                 tag: "tier",
+                                map: map,
                               )
                             : CustomRadio(
                                 options: ["Platinum"],
                                 query: "Choose your tier",
                                 tag: "tier",
                                 updateFunc: updateSelected,
+                                map: map,
                               );
                       case 5:
-                        showDatePicker(
-                            context: bc,
-                            firstDate: DateTime.now(),
-                            initialDate: DateTime.now()..add(Duration(days: 1)),
-                            lastDate: DateTime.now());
+                        return FlatButton(
+                          onPressed: () {
+                            setState(() async {
+                              DateTime dt = await showDatePicker(
+                                context: bc,
+                                initialDate: DateTime.now(),
+                                lastDate: DateTime(2020),
+                                firstDate: DateTime.now(),
+                              );
+                              map["date"] = dt.toString();
+                            });
+                          },
+                          child: Column(
+                            children: <Widget>[
+                              SizedBox(height: k * 0.1),
+                              Text(
+                                "Choose your date ",
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: k * 0.05,
+                                ),
+                              ),
+                              Text(
+                                map["date"],
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: k * 0.05,
+                                ),
+                              ),
+                            ],
+                          ),
+                        );
+                        // showDatePicker(
+                        //     context: bc,
+                        //     firstDate: DateTime.now(),
+                        //     initialDate: DateTime.now()..add(Duration(days: 1)),
+                        //     lastDate: DateTime.now());
 
                         break;
 
@@ -184,20 +226,24 @@ class _PhotographyState extends State<Photography>
               ),
               Align(
                 alignment: Alignment.bottomRight,
-                child: FlatButton(
-                  shape: CircleBorder(),
-                  padding: EdgeInsets.all(k * 0.05),
-                  onPressed: () {
-                    pageController.animateToPage(
-                        pageController.page.toInt() + 1,
-                        duration: Duration(milliseconds: 200),
-                        curve: Curves.easeInOut);
-                  },
-                  child: Text(
-                    ">",
-                    style: TextStyle(
-                      fontSize: k * 0.1,
-                      color: Colors.white,
+                child: AnimatedOpacity(
+                  duration: Duration(milliseconds: 200),
+                  opacity: next ? 1 : 0,
+                  child: FlatButton(
+                    shape: CircleBorder(),
+                    padding: EdgeInsets.all(k * 0.05),
+                    onPressed: () {
+                      pageController.animateToPage(
+                          pageController.page.toInt() + 1,
+                          duration: Duration(milliseconds: 200),
+                          curve: Curves.easeInOut);
+                    },
+                    child: Text(
+                      ">",
+                      style: TextStyle(
+                        fontSize: k * 0.1,
+                        color: Colors.white,
+                      ),
                     ),
                   ),
                 ),

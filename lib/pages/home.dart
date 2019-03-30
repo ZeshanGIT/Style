@@ -3,6 +3,7 @@ import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:style/constants.dart';
 
 double height, width;
+bool chat = false;
 
 class Home extends StatefulWidget {
   @override
@@ -65,21 +66,42 @@ class _HomeState extends State<Home> {
       },
     );
 
+    void invertChat() {
+      setState(() {
+        chat = !chat;
+      });
+    }
+
     return Scaffold(
+      floatingActionButton: chat
+          ? Container()
+          : FloatingActionButton(
+              onPressed: invertChat,
+              child: Icon(Icons.chat),
+            ),
       appBar: AppBar(
         title: Text("Style"),
       ),
-      body: Container(
-        child: LayoutBuilder(
-          builder: layoutBuilder,
-        ),
+      body: Stack(
+        children: <Widget>[
+          Container(
+            child: LayoutBuilder(
+              builder: layoutBuilder,
+            ),
+          ),
+          AnimatedContainer(
+            duration: Duration(milliseconds: 200),
+            height: chat ? height : 0,
+            child: Chat(invertChat),
+          ),
+        ],
       ),
     );
   }
 
   Widget layoutBuilder(BuildContext mContext, BoxConstraints boxConstraints) {
-    height = boxConstraints.maxWidth;
-    width = boxConstraints.maxHeight;
+    height = boxConstraints.maxHeight;
+    width = boxConstraints.maxWidth;
 
     widgetList = [
       Stack(
@@ -136,6 +158,183 @@ class _HomeState extends State<Home> {
   }
 }
 
+class Chat extends StatefulWidget {
+  Function invertChat;
+  Chat(this.invertChat);
+  @override
+  _ChatState createState() => _ChatState();
+}
+
+class _ChatState extends State<Chat> {
+  ScrollController _scrollController;
+  TextEditingController _textEditingController;
+  List<Message> messages = [];
+
+  @override
+  void initState() {
+    _textEditingController = TextEditingController();
+    _scrollController = ScrollController();
+    super.initState();
+  }
+
+  Widget build(BuildContext context) {
+    return ClipRRect(
+      borderRadius: BorderRadius.vertical(
+        top: Radius.circular(10.0),
+      ),
+      child: Stack(
+        children: <Widget>[
+          Container(
+            color: Colors.grey.shade200,
+            child: Column(
+              mainAxisSize: MainAxisSize.max,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: <Widget>[
+                Expanded(
+                  child: Container(
+                    color: Colors.pink.shade800,
+                    child: Column(
+                      children: <Widget>[
+                        Container(
+                          color: Colors.pink,
+                          child: ListTile(
+                            subtitle: Text(
+                              "Guest",
+                              style: TextStyle(color: Colors.white),
+                            ),
+                            title: Text("Customer Support",
+                                style: TextStyle(color: Colors.white)),
+                            leading: CircleAvatar(
+                              backgroundImage: AssetImage("assets/dp.jpg"),
+                            ),
+                          ),
+                        ),
+                        Expanded(
+                          child: ListView.builder(
+                            controller: _scrollController,
+                            reverse: true,
+                            itemCount: messages.length,
+                            itemBuilder: (context, idx) {
+                              return _buildMsg(messages[idx]);
+                            },
+                          ),
+                        )
+                      ],
+                    ),
+                  ),
+                ),
+                Container(
+                  height: 50,
+                  padding: EdgeInsets.all(7.0),
+                  alignment: Alignment.centerLeft,
+                  decoration: BoxDecoration(
+                    // borderRadius: BorderRadius.all(Radius.circular(10.0)),
+                    gradient: LinearGradient(
+                      colors: [
+                        Colors.pink.withOpacity(0.1),
+                        Colors.deepPurple.withOpacity(0.1),
+                      ],
+                    ),
+                  ),
+                  child: Row(
+                    children: <Widget>[
+                      IconButton(
+                        iconSize: 18,
+                        icon: Icon(Icons.attach_file),
+                        onPressed: () {},
+                      ),
+                      Expanded(
+                        child: TextField(
+                          controller: _textEditingController,
+                          textAlign: TextAlign.left,
+                          decoration: InputDecoration(
+                              border: InputBorder.none,
+                              focusedBorder: InputBorder.none,
+                              contentPadding: EdgeInsets.all(8.0),
+                              hintText: "Send a message.."),
+                          style: TextStyle(color: Colors.black),
+                        ),
+                      ),
+                      IconButton(
+                        iconSize: 18,
+                        icon: Icon(Icons.send),
+                        onPressed: () {
+                          String msg = _textEditingController.text;
+                          if (msg != null) {
+                            setState(
+                              () {
+                                messages
+                                    .add(Message(isClient: false, msg: msg));
+                              },
+                            );
+                            print(messages);
+                            _textEditingController.clear();
+                            _scrollController
+                                .jumpTo(messages.length.toDouble());
+                          }
+                        },
+                      ),
+                    ],
+                  ),
+                )
+              ],
+            ),
+          ),
+          Positioned(
+            top: 10,
+            right: 10,
+            child: IconButton(
+              icon: Icon(
+                Icons.close,
+                color: Colors.white,
+              ),
+              onPressed: widget.invertChat,
+            ),
+          )
+        ],
+      ),
+    );
+  }
+
+  Container _buildMsg(Message message) {
+    return Container(
+      margin: EdgeInsets.fromLTRB(
+        message.isClient ? width * 0.8 : 8.0,
+        8.0,
+        message.isClient ? 8.0 : width * 0.8,
+        8.0,
+      ),
+      alignment: Alignment.centerLeft,
+      padding: EdgeInsets.all(12.0),
+      decoration: BoxDecoration(
+        color: message.isClient ? Colors.teal.withOpacity(0.1) : Colors.white10,
+        borderRadius: BorderRadius.all(
+          Radius.circular(10.0),
+        ),
+      ),
+      child: Text(
+        message.toString(),
+        style: TextStyle(color: Colors.white),
+      ),
+    );
+  }
+}
+
+class Message {
+  String msg;
+  bool isClient;
+  Message({
+    @required this.msg,
+    @required this.isClient,
+  });
+
+  @override
+  String toString() {
+    return msg;
+  }
+}
+
 class ServiceItem extends StatefulWidget {
   final Color color;
   final String image;
@@ -176,9 +375,10 @@ class _ServiceItemState extends State<ServiceItem> {
             )
           ],
           gradient: LinearGradient(
-            colors: [widget.color, widget.color, widget.color.withOpacity(0.5)],
-            end: Alignment.topLeft,
-            begin: Alignment.bottomRight,
+            colors: [widget.color, widget.color, Colors.white54],
+            stops: [0.0, 0.25, 1.0],
+            begin: Alignment.bottomLeft,
+            end: Alignment.topRight,
           ),
           borderRadius: BorderRadius.all(
             Radius.circular(width * 0.02),

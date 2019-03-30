@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'pages/home.dart';
 import 'services/photography.dart';
+import 'pages/landing.dart';
 
 import 'constants.dart';
 
@@ -13,7 +14,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(fontFamily: "Nexa"),
       routes: {
-        "/": (_) => Home(),
+        "/": (_) => Landing(),
+        "/home": (_) => Home(),
         "/${Strings.photography}": (_) => Photography(),
       },
     );
